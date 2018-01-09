@@ -11,7 +11,7 @@
           "submit"
         ]
       },
-      "selector": ".warning"
+      "selector": "<input type=\"text\" name=\"username\" size=\"32\" maxlength=\"32\" value=\"\">"
     },
     "password": {
       "type": "string",
