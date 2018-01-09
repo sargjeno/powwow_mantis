@@ -30,7 +30,7 @@
     },
     "isissueslist": {
       "type": "identifier",
-      "selector": "html",
+      "selector": "http",
       "control": "view_all_bug_page"
     }
   },
