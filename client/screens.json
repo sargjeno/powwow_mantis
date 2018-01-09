@@ -4,13 +4,6 @@
   "startScreen": "app.blank",
   "screens": [
     {
-      "id": "login",
-      "name": "login",
-      "sourceScreenId": "app.login.logincool",
-      "sourceAppId": "universaltemplates",
-      "model": "login"
-    },
-    {
       "id": "blank",
       "name": "BLANK",
       "sourceAppId": "_blank",
@@ -21,6 +14,13 @@
       "name": "menu",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.menu"
+    },
+    {
+      "id": "login",
+      "name": "login",
+      "sourceScreenId": "app.login.logincool",
+      "sourceAppId": "universaltemplates",
+      "model": "login"
     },
     {
       "id": "multiselect",
