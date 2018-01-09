@@ -60,5 +60,14 @@
       "selectContains": "my_view_page"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "islogin"
+      ],
+      "screens": [
+        "login"
+      ]
+    }
+  ]
 }
