@@ -2,8 +2,8 @@
   "type": "object",
   "properties": {
     "islanding": {
-      "type": "string",
-      "selector": "font",
+      "type": "identifier",
+      "selector": "body",
       "control": "property.innerText"
     }
   },
