@@ -47,6 +47,11 @@
       },
       "selector": ".button",
       "control": "action.button"
+    },
+    "islogin": {
+      "type": "identifier",
+      "selector": ".button",
+      "control": "exists"
     }
   },
   "connect": []
