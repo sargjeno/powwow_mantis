@@ -52,6 +52,12 @@
       "type": "identifier",
       "selector": ".button",
       "control": "exists"
+    },
+    "warningmessage": {
+      "type": "action",
+      "selector": "font",
+      "control": "text",
+      "selectContains": "<strong>"
     }
   },
   "connect": []
