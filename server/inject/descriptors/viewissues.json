@@ -30,7 +30,7 @@
     },
     "isissueslist": {
       "type": "identifier",
-      "selector": "a",
+      "selector": ".floatleft",
       "control": "exists",
       "selectContains": "Viewing Issues"
     }
