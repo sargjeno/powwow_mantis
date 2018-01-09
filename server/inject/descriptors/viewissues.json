@@ -22,8 +22,9 @@
     },
     "isissueslist": {
       "type": "identifier",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": "a",
+      "control": "exists",
+      "selectContains": "My View"
     }
   },
   "connect": []
