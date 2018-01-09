@@ -52,12 +52,6 @@
       "type": "identifier",
       "selector": ".button",
       "control": "exists"
-    },
-    "warningmessage": {
-      "type": "action",
-      "selector": "font",
-      "control": "property.innerText",
-      "selectContains": "Admin directory"
     }
   },
   "connect": [
