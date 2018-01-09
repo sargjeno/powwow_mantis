@@ -56,8 +56,8 @@
     "warningmessage": {
       "type": "action",
       "selector": "font",
-      "control": "property.innerHTML",
-      "selectContains": "<strong>"
+      "control": "property.innerText",
+      "selectContains": "Admin directory"
     }
   },
   "connect": []
