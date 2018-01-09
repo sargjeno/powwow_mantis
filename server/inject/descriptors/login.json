@@ -56,8 +56,7 @@
     "warningmessage": {
       "type": "action",
       "selector": "font",
-      "control": "text",
-      "selectContains": "<strong>"
+      "control": "text"
     }
   },
   "connect": []
