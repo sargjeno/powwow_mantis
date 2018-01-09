@@ -3,8 +3,9 @@
   "properties": {
     "islanding": {
       "type": "identifier",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": ".subtle",
+      "control": "property.innerText",
+      "selectContains": "Assigned to Me"
     }
   },
   "connect": []
