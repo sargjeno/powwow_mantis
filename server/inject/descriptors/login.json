@@ -55,9 +55,9 @@
     },
     "warningmessage": {
       "type": "action",
-      "selector": "page.href",
-      "control": "exists",
-      "selectContains": "my_view_page"
+      "selector": "font",
+      "control": "property.innerText",
+      "selectContains": "Admin directory"
     }
   },
   "connect": [
