@@ -11,7 +11,7 @@
           "submit"
         ]
       },
-      "selector": "<input type=\"text\" name=\"username\" size=\"32\" maxlength=\"32\" value=\"\">"
+      "selector": "[name=\"username\"]"
     },
     "password": {
       "type": "string",
