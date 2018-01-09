@@ -11,7 +11,7 @@
       "type": "action",
       "selector": "a",
       "control": "action.link",
-      "selectContains": "Assiged to Me"
+      "selectContains": "Assigned to Me"
     }
   },
   "connect": []
