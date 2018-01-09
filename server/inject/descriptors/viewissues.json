@@ -32,7 +32,7 @@
       "type": "identifier",
       "selector": "a",
       "control": "exists",
-      "selectContains": "My View"
+      "selectContains": "Viewing Issues"
     }
   },
   "connect": []
