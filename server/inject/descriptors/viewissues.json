@@ -29,7 +29,9 @@
       }
     },
     "isissueslist": {
-      "type": "identifier"
+      "type": "identifier",
+      "selector": "html",
+      "control": "view_all_bug_page"
     }
   },
   "connect": [
