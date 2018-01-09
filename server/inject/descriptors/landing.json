@@ -14,5 +14,12 @@
       "selectContains": "Assigned to Me"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "islanding"
+      ],
+      "action": "clickAssignedToMe"
+    }
+  ]
 }
