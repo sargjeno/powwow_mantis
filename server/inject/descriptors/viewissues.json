@@ -30,9 +30,8 @@
     },
     "isissueslist": {
       "type": "identifier",
-      "selector": ".floatleft",
-      "control": "exists",
-      "selectContains": "Viewing Issues"
+      "selector": "html",
+      "control": "view_all_bug_page"
     }
   },
   "connect": [
