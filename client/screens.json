@@ -10,17 +10,17 @@
       "sourceScreenId": "app.blank"
     },
     {
-      "id": "menu",
-      "name": "menu",
-      "sourceAppId": "_blank",
-      "sourceScreenId": "app.menu"
-    },
-    {
       "id": "login",
       "name": "login",
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
       "model": "login"
+    },
+    {
+      "id": "menu",
+      "name": "menu",
+      "sourceAppId": "_blank",
+      "sourceScreenId": "app.menu"
     },
     {
       "id": "multiselect",
