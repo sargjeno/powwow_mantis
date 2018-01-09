@@ -29,9 +29,7 @@
       }
     },
     "isissueslist": {
-      "type": "identifier",
-      "selector": "http",
-      "control": "view_all_bug_page"
+      "type": "identifier"
     }
   },
   "connect": [
