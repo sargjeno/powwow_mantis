@@ -27,13 +27,6 @@
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
       "model": "login"
-    },
-    {
-      "id": "issuelist",
-      "name": "issuelist",
-      "sourceScreenId": "app.listview.listviewcool",
-      "sourceAppId": "universaltemplates",
-      "model": "issuelist_2"
     }
   ],
   "sourceAppId": "_blank",
