@@ -1,5 +1,6 @@
 [
   "login.json",
   "landing.json",
-  "viewissues.json"
+  "viewissues.json",
+  "myissuelist.json"
 ]
