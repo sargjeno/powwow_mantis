@@ -34,14 +34,5 @@
       "control": "url.view_all_bug_page"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "isissueslist"
-      ],
-      "screens": [
-        "issuelist"
-      ]
-    }
-  ]
+  "connect": []
 }
